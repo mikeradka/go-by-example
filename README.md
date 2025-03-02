@@ -1,3 +1,3 @@
 # go-by-example
 
-Exercises from 'Go by Example'
+Exercises from [Go by Example](https://gobyexample.com/hello-world).
