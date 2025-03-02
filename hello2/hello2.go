@@ -1,4 +1,4 @@
-// https://go.dev/doc/tutorial/handle-errors
+// https://go.dev/doc/tutorial/random-greeting
 package main
 
 import (
@@ -16,7 +16,7 @@ func main() {
 	log.SetFlags(0)
 
 	// Request a greeting message
-	message, err := greetings.Hello("")
+	message, err := greetings.Hello("Gladys")
 	// If an error was returned, print it to the console and
 	// exit the program.
 	if err != nil {
