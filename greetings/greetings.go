@@ -1,3 +1,5 @@
+// https://go.dev/doc/tutorial/create-module
+
 package greetings
 
 import "fmt"
