@@ -1,4 +1,4 @@
-// https://go.dev/doc/tutorial/call-module-code
+// https://go.dev/doc/tutorial/handle-errors
 package main
 
 import (
